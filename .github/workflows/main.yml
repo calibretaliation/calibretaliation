@@ -30,4 +30,4 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_repositories: yes
-          plugin_repositories_featured: lyrics_nerds_scraping, Actor-Ranking-Streaming, xblock-for-video-processing          
+          plugin_repositories_featured: calibretaliation/lyrics_nerds_scraping, calibretaliation/Actor-Ranking-Streaming, calibretaliation/xblock-for-video-processing          
