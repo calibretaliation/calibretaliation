@@ -6,10 +6,10 @@
 - 🔭 I’m currently working as a Data Scientist at **Viettel AI - AI Telco projects**
 <div class="row">
   <div class="column">
-    <img src="/github-metrics.svg" alt="Metrics" style="width:100%">
+    <img src="/github-metrics.svg" alt="Metrics">
   </div>
   <div class="column">
-    <img src="/metrics.plugin.repositories.pinned.svg" alt="Metrics" style="width:100%">
+    <img src="/metrics.plugin.repositories.svg" alt="Metrics">
   </div>
 </div>
 
