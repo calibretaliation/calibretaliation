@@ -1,14 +1,32 @@
+<style>
+* {
+  box-sizing: border-box;
+}
+
+.img-container {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+</style>
+
 <h1 align="center">Hi 👋, I'm Minh Nhat</h1>
 <h3 align="center">A Data Enthusiast, projected to applying Data Science to upgrade life quality</h3>
 
 - 👯 I’m looking to collaborate on **Data Science & AI related fields**
 
 - 🔭 I’m currently working as a Data Scientist at **Viettel AI - AI Telco projects**
-<div class="row">
-  <div class="column">
-    <img src="/github-metrics.svg" alt="Metrics">
+<div class="clearfix">
+  <div class="img-container">
+  <img src="/github-metrics.svg" alt="Metrics">
   </div>
-  <div class="column">
+  <div class="img-container">
     <img src="/metrics.plugin.repositories.svg" alt="Metrics">
   </div>
 </div>
