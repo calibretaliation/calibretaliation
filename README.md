@@ -15,8 +15,5 @@
 <picture>
   <img src="/github-metrics.svg" alt="Metrics">
 </picture>
-<picture>
-  <img src="/metrics.classic.svg" alt="Metrics">
-</picture>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=calibretaliation&show_icons=true&locale=en&layout=compact" alt="calibretaliation" /></p>
