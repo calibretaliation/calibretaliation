@@ -4,17 +4,14 @@
 - 👯 I’m looking to collaborate on **Data Science & AI related fields**
 
 - 🔭 I’m currently working as a Data Scientist at **Viettel AI - AI Telco projects**
-
-<p align="center">
-  <picture>
-  <img src="/github-metrics.svg" alt="Metrics">
-</picture>
-</p>
-<p align="center">
-  <picture>
-  <img src="/metrics.plugin.repositories.pinned.svg" alt="Metrics">
-</picture>
-</p>
+<div class="row">
+  <div class="column">
+    <img src="/github-metrics.svg" alt="Metrics">
+  </div>
+  <div class="column">
+    <img src="/metrics.plugin.repositories.pinned.svg" alt="Metrics">
+  </div>
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
