@@ -1,4 +1,6 @@
-<style>
+<html>
+<head>
+  <style>
 * {
   box-sizing: border-box;
 }
@@ -15,7 +17,7 @@
   display: table;
 }
 </style>
-
+</head>
 <h1 align="center">Hi 👋, I'm Minh Nhat</h1>
 <h3 align="center">A Data Enthusiast, projected to applying Data Science to upgrade life quality</h3>
 
