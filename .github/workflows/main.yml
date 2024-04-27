@@ -30,11 +30,4 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_repositories: yes
-          plugin_repositories_featured: lowlighter/metrics
-      - uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.plugin.repositories.pinned.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_repositories: yes
-          plugin_repositories_pinned: 2
+          plugin_repositories_featured: lyrics_nerds_scraping, Actor-Ranking-Streaming, xblock-for-video-processing          
