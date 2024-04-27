@@ -23,3 +23,18 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: header, repositories
           plugin_lines: yes
+
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.repositories.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_repositories: yes
+          plugin_repositories_featured: lowlighter/metrics
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.repositories.pinned.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_repositories: yes
+          plugin_repositories_pinned: 2
