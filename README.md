@@ -3,7 +3,9 @@
 
 - 👯 I’m looking to collaborate on **Data Science & AI related fields**
 
-- 🔭 I’m currently working as a Data Scientist at **Viettel AI - AI Telco projects**
+- 🔭 I’m curently a PhD student **Florida International University - Ethical AI/ML**
+
+- 🔭 I’m a former Data Scientist at **Viettel AI - AI Telco projects**
   
 <p float="left">
   <img align=top src="/github-metrics.svg" alt="Metrics" width="45%">
